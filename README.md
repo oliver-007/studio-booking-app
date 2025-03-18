@@ -2,6 +2,8 @@
 
 ## Using this application user can find , book studio
 
+# How to run in development environment
+
 ```bash
 cd studio_booking_app
 ```
