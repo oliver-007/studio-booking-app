@@ -24,8 +24,7 @@ The app will be running on http://localhost:5173
 
 ## Technologies Used
 
--React v19
-
+- React v19
 - React-Hook-Form
 - React-Select
 - Zod
