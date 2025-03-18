@@ -31,6 +31,7 @@ The app will be running on http://localhost:5173
 - React-Select
 - Zod
 - Redux Toolkit
+- TypeScript
 
 ## License
 
