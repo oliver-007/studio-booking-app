@@ -14,7 +14,7 @@ npm install
 npm run dev
 ```
 
-The app will be reunnin on http:/localhost:5173
+The app will be running on http:/localhost:5173
 
 ## Features
 
