@@ -1,6 +1,6 @@
 # Studio Booking Application
 
-## Using this application user can find , book studio
+### Using this application user can find , book studio
 
 # How to run in development environment
 
